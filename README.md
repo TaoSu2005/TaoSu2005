@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @TaoSu2005
-- 👀 I’m interested in ...socitey
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...sutao6@mail2.sysu.edu.cn
-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-TaoSu2005/TaoSu2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Name: Tao Su
+Bio: Undergraduate student at Sun Yat-sen University
+Company / Organization: Sun Yat-sen University
+Location: Shenzhen / Guangzhou, China
